@@ -1,1 +1,0 @@
-# Neural-Oscillators-Cluster-with-Miro-robot
